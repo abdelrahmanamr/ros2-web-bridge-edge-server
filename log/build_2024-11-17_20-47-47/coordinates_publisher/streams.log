@@ -1,0 +1,25 @@
+[1.771s] Invoking command in '/home/student/ros2_ws/coordinates_publisher': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/student/ros2_ws/build/coordinates_publisher/prefix_override:/home/student/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/ros2_ws/install/coordinates_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/coordinates_publisher build --build-base /home/student/ros2_ws/build/coordinates_publisher/build install --record /home/student/ros2_ws/build/coordinates_publisher/install.log --single-version-externally-managed install_data
+[2.370s] running egg_info
+[2.402s] writing ../build/coordinates_publisher/coordinates_publisher.egg-info/PKG-INFO
+[2.402s] writing dependency_links to ../build/coordinates_publisher/coordinates_publisher.egg-info/dependency_links.txt
+[2.402s] writing entry points to ../build/coordinates_publisher/coordinates_publisher.egg-info/entry_points.txt
+[2.402s] writing requirements to ../build/coordinates_publisher/coordinates_publisher.egg-info/requires.txt
+[2.402s] writing top-level names to ../build/coordinates_publisher/coordinates_publisher.egg-info/top_level.txt
+[2.469s] reading manifest file '../build/coordinates_publisher/coordinates_publisher.egg-info/SOURCES.txt'
+[2.470s] writing manifest file '../build/coordinates_publisher/coordinates_publisher.egg-info/SOURCES.txt'
+[2.471s] running build
+[2.471s] running build_py
+[2.471s] copying coordinates_publisher/publisher_node.py -> /home/student/ros2_ws/build/coordinates_publisher/build/lib/coordinates_publisher
+[2.471s] copying coordinates_publisher/object_detector.py -> /home/student/ros2_ws/build/coordinates_publisher/build/lib/coordinates_publisher
+[2.472s] running install
+[2.479s] running install_lib
+[2.512s] copying /home/student/ros2_ws/build/coordinates_publisher/build/lib/coordinates_publisher/publisher_node.py -> /home/student/ros2_ws/install/coordinates_publisher/lib/python3.10/site-packages/coordinates_publisher
+[2.515s] byte-compiling /home/student/ros2_ws/install/coordinates_publisher/lib/python3.10/site-packages/coordinates_publisher/publisher_node.py to publisher_node.cpython-310.pyc
+[2.515s] running install_data
+[2.516s] running install_egg_info
+[2.550s] removing '/home/student/ros2_ws/install/coordinates_publisher/lib/python3.10/site-packages/coordinates_publisher-0.0.0-py3.10.egg-info' (and everything under it)
+[2.551s] Copying ../build/coordinates_publisher/coordinates_publisher.egg-info to /home/student/ros2_ws/install/coordinates_publisher/lib/python3.10/site-packages/coordinates_publisher-0.0.0-py3.10.egg-info
+[2.551s] running install_scripts
+[2.781s] Installing publisher_node script to /home/student/ros2_ws/install/coordinates_publisher/lib/coordinates_publisher
+[2.782s] writing list of installed files to '/home/student/ros2_ws/build/coordinates_publisher/install.log'
+[2.809s] Invoked command in '/home/student/ros2_ws/coordinates_publisher' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/student/ros2_ws/build/coordinates_publisher/prefix_override:/home/student/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/ros2_ws/install/coordinates_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/coordinates_publisher build --build-base /home/student/ros2_ws/build/coordinates_publisher/build install --record /home/student/ros2_ws/build/coordinates_publisher/install.log --single-version-externally-managed install_data
